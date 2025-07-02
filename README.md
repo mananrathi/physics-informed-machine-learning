@@ -18,12 +18,12 @@ This dataset forms the basis for hybrid physics-informed and data-driven modelin
 
 | Script                          | Description                                                             |
 |----------------------------------|-------------------------------------------------------------------------|
-| `allFiles_wCycleNum.py`         | Processes all dataset files with embedded cycle number metadata         |
-| `allFiles_woCycleNum.py`        | Processes all dataset files without cycle number metadata               |
-| `individualFile_wCycleNum_20.py`| Processes individual files with cycle numbers in 20-cycle segments      |
-| `individualFile_wCycleNum_50.py`| Processes individual files with cycle numbers in 50-cycle segments      |
-| `individualFile_woCycleNum_20.py`| Processes individual files without cycle numbers in 20-cycle segments   |
-| `individualFile_woCycleNum_50.py`| Processes individual files without cycle numbers in 50-cycle segments   |
+| `allFiles_wCycleNum.py`         | all dataset files with embedded cycle number metadata         |
+| `allFiles_woCycleNum.py`        | all dataset files without cycle number metadata               |
+| `individualFile_wCycleNum_20.py`| individual files with cycle numbers in 20-cycle segments      |
+| `individualFile_wCycleNum_50.py`| individual files with cycle numbers in 50-cycle segments      |
+| `individualFile_woCycleNum_20.py`| individual files without cycle numbers in 20-cycle segments   |
+| `individualFile_woCycleNum_50.py`| individual files without cycle numbers in 50-cycle segments   |
 
 These scripts enable modular experimentation and batch analysis depending on dataset structure and granularity.
 
