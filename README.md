@@ -1,5 +1,5 @@
-# Physics-Informed Machine Learning, 
-# Battery Health Prediction
+# Physics-Informed Machine Learning
+## Battery Health Prediction
 
 This repository contains code and data for developing **physics-informed machine learning models** to estimate key lithium-ion battery health metrics **Remaining Useful Life (RUL)**, **State of Health (SoH)**, and **State of Charge (SoC)** with a focus on electric vertical take-off and landing (**eVTOL**) aircraft applications.
 
