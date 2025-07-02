@@ -1,8 +1,8 @@
-# Physics-Informed Battery Health Prediction
+# Physics-Informed Machine Learning, Battery Health Prediction
 
 This repository contains code and data for developing **physics-informed machine learning models** to estimate key lithium-ion battery health metrics—**Remaining Useful Life (RUL)**, **State of Health (SoH)**, and **State of Charge (SoC)**—with a focus on electric vertical take-off and landing (**eVTOL**) aircraft applications.
 
-## 📊 Dataset
+## Data Set
 
 - The dataset is based on a realistic battery duty profile designed for eVTOL operations, using high-energy-density pouch cells.
 - It includes telemetry from **22 lithium-ion cells**, covering **21,392 charge/discharge cycles** under varied temperature, load, and operational conditions.
@@ -13,7 +13,7 @@ This repository contains code and data for developing **physics-informed machine
 
 This dataset forms the basis for hybrid physics-informed and data-driven modeling approaches.
 
-## 🧠 Scripts Overview
+## Scripts
 
 | Script                          | Description                                                             |
 |----------------------------------|-------------------------------------------------------------------------|
@@ -26,12 +26,12 @@ This dataset forms the basis for hybrid physics-informed and data-driven modelin
 
 These scripts enable modular experimentation and batch analysis depending on dataset structure and granularity.
 
-## ⚙️ Usage
+## Usage
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/mananrathi/battery-metric-prediction.git
-    cd battery-metric-prediction
+    git clone https://github.com/mananrathi/physics-informed-machine-learning.git
+    cd physics-informed-machine-learning
     ```
 
 2. **Extract the Dataset**  
